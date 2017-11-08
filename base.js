@@ -16,5 +16,8 @@ module.exports = {
     'no-unused-vars': [
       'warn',
     ],
+    'no-throw-literal': [
+      'error',
+    ],
   },
 }
