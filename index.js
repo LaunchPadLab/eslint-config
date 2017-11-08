@@ -1,3 +1,3 @@
 module.exports = {
-  'extends': './react-rails',
+  'extends': './react-rails.js',
 }
