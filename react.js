@@ -2,7 +2,6 @@ module.exports = {
   'extends': [
     './es6.js',
     'plugin:react/recommended',
-    'plugin:jsx-a11y/recommended'
   ],
   'plugins': [
     'react',
