@@ -19,5 +19,8 @@ module.exports = {
     'no-throw-literal': [
       'error',
     ],
+    'import/no-extraneous-dependencies': [
+      'warn',
+    ],
   },
 }
