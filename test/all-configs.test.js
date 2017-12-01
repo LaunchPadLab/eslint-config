@@ -1,4 +1,3 @@
-const config = require('../react-rails')
 const execSync = require('child_process').execSync
 
 // Basic sanity checks to make sure there are no syntax errors in the configs
