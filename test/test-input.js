@@ -1,4 +1,4 @@
 function testInput () {
   var thisFile = 'doesnt do anything'
-  return 'its just an input for the tests!'
+  return 'it is just an input for the tests!'
 }

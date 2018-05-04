@@ -18,4 +18,7 @@ module.exports = {
       'off',
     ]
   },
+  'settings': {
+    'propWrapperFunctions': [ 'exact' ],
+  }
 }
