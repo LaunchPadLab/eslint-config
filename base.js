@@ -13,6 +13,12 @@ module.exports = {
     'no-console': [
       'warn',
     ],
+    'no-debugger': [
+      'warn',
+    ],
+    'no-warning-comments': [
+      'warn',
+    ],
     'no-unused-vars': [
       'warn',
     ],
