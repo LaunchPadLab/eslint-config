@@ -5,7 +5,6 @@ module.exports = {
   ],
   'plugins': [
     'react',
-    'jsx-a11y',
   ],
   'rules': {
     'react/prop-types': [
