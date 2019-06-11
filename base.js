@@ -13,6 +13,9 @@ module.exports = {
     'no-console': [
       'warn',
     ],
+    'no-unreachable': [
+      'warn',
+    ],
     'no-debugger': [
       'warn',
     ],
