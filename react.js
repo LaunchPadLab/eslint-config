@@ -9,6 +9,7 @@ module.exports = {
   'rules': {
     'react/prop-types': [
       'warn',
+      { skipUndeclared: true },
     ],
     'react/no-unused-prop-types': [
       'warn',
