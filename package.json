@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "dpikt",
+  "engines": {
+    "node": ">= 10"
+  },
   "scripts": {
     "test": "jest"
   },
