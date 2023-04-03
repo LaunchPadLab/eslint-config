@@ -3,10 +3,12 @@ module.exports = {
     './es6.js',
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
+    'plugin:jsx-a11y/recommended',
   ],
   'plugins': [
     'react',
-    'react-hooks'
+    'react-hooks',
+    'jsx-a11y'
   ],
   'rules': {
     'react/prop-types': [
