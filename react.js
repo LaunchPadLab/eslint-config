@@ -6,6 +6,7 @@ module.exports = {
   ],
   'plugins': [
     'react',
+    'react-hooks'
   ],
   'rules': {
     'react/prop-types': [
