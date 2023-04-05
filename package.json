@@ -27,7 +27,6 @@
     "webpack": "^5.0.0"
   },
   "peerDependencies": {
-    "@babel/core": ">= 7.11.0",
     "eslint": "^7.5.0 || ^8.0.0"
   },
   "resolutions": {
